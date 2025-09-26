@@ -63,4 +63,4 @@ The aviation industry is dynamic with various variables impacting flight operati
 | `wind_gust`  | Wind gust speed (in mph)  
 =======
 # pnw-flight-delay-analysis
->>>>>>> d6333927c9d9dd910439ee538eb9db3420c687fd
+>>>>>>> 
