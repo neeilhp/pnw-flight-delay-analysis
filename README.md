@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ✈️ PNW Flight Delay & Cancellation Analysis
 
 This project explores **flight delays and cancellations** for the Pacific Northwest (Seattle–Tacoma (SEA) and Portland (PDX)) in 2022, using the [`pnwflights2022`](https://moderndive.com/) dataset.  
@@ -60,3 +61,6 @@ The aviation industry is dynamic with various variables impacting flight operati
 |------------|-------------------------------------------------------|
 | `visib`      | Visibility (in miles)                                 |
 | `wind_gust`  | Wind gust speed (in mph)  
+=======
+# pnw-flight-delay-analysis
+>>>>>>> d6333927c9d9dd910439ee538eb9db3420c687fd
